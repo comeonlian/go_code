@@ -65,5 +65,3 @@ func main() {
 	b = &A2Instance{Data: "i shi you"}
 	fmt.Println(b.Printf())
 }
-
-
