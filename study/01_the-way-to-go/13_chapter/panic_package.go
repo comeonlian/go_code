@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"go_code/study/01_the_way_to_go/parse"
+	"go_code/study/01_the-way-to-go/parse"
 )
 
 func main() {
